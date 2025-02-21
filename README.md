@@ -13,7 +13,7 @@
     border-top-right-radius: 30px;
 }
 .class2{
-    height: 500px;
+    height: 550px;
     width: 300px;
     background-color: rgb(173, 163, 150);
     border-bottom-right-radius: 30px;
